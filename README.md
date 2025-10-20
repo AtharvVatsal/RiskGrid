@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 **RiskGrid** is an advanced spatio-temporal crime risk intelligence system that predicts crime patterns across Chicago using machine learning. By dividing the city into a smart grid system and analyzing historical crime data, RiskGrid helps law enforcement optimize resource allocation and prevent crime through proactive deployment.
-
+Dataset: [Chicago PD 2001 to Present Crime Dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data)
 ## 🎯 Key Features
 
 - **Predictive Analytics**: Forecasts crime incidents 24 hours in advance with 85%+ accuracy
@@ -236,7 +236,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Authors
 
-- **Atharv Vatsal** - *Initial work* - [YourGitHub](https://github.com/AtharvVatsal)
+- **Atharv Vatsal** - *Initial work* - [AtharvVatsal](https://github.com/AtharvVatsal)
 
 ## 🙏 Acknowledgments
 
@@ -250,8 +250,9 @@ For questions, feedback, or collaboration opportunities:
 
 - Email: atharv.vatsal2023@vitstudent.ac.in
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/atharvvatsal)
-- Project Link: [https://github.com/AtharvVatsal/RiskGrid](https://github.com/yourusername/RiskGrid)
+- Project Link: [RiskGrid](https://github.com/AtharvVatsal/RiskGrid)
 
 ---
+
 
 **⚠️ Disclaimer**: This system is designed to assist law enforcement decision-making, not replace human judgment. All predictions should be validated and used as one factor among many in resource allocation decisions.
