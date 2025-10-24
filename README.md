@@ -22,10 +22,8 @@ Dataset: [Chicago PD 2001 to Present Crime Dataset](https://data.cityofchicago.o
 - **Processing Speed**: Handles millions of spatial operations in real-time
 
 ## 💰 Business Impact
-
-- **Annual Savings**: $2.4M+ in optimized patrol resources
-- **Crime Prevention**: 1,500+ preventable crimes per year
-- **Efficiency Gain**: 78% improvement in patrol efficiency
+
+- **Crime Prevention**: 1,500+ preventable crimes per year
 - **Coverage**: 2,847 grid cells monitored across Chicago
 
 ## 🛠️ Tech Stack
